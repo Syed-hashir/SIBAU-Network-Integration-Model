@@ -45,4 +45,4 @@ The **SIBAU Network Integration Model** demonstrates the design and implementati
 For a step-by-step guide and detailed explanation of how I created the **SIBAU Network Integration Model**, check out my **YouTube tutorial**. In this video, I walk through the entire process of designing the network using **Cisco Packet Tracer**, configuring **VLANs**, **RIP v2**, **DHCP**, and implementing security features like **ACLs** and **Wireless Connectivity**.  
 
 📺 **Watch the full tutorial here:**  
-[Your YouTube Channel - SIBAU Network Integration Tutorial](https://www.youtube.com/your-channel-link)
+[Your YouTube Channel - SIBAU Network Integration Tutorial](https://youtu.be/8Im5Y7t3wRw?si=aIWkKD27hBm-nymr)
