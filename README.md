@@ -41,4 +41,3 @@ The **SIBAU Network Integration Model** demonstrates the design and implementati
 3. Open the `project.pkt` file in **Cisco Packet Tracer** to view the network design.  
 4. You can simulate and modify the configuration to explore different network behaviors.
 
-## Directory Structure  
